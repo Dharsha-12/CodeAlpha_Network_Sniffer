@@ -142,7 +142,7 @@ This tool is built **strictly for educational purposes** as part of the CodeAlph
 
 ## 👤 Author
 
-**Your Name**
+**Dharshan D**
 CodeAlpha Cybersecurity Intern
 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YourUsername)
 
